@@ -66,7 +66,7 @@ a {
 }
 
 .header .logo a img {
-	content: url(./../logos/png/nexiz-high-resolution-logo-white-transparent.png);
+	content: url(./../logos/hamza-wajeeh-logo-zip-file/png/logo-no-background\ white.png);
 	width: 160px;
 	padding: 5px 0 0 20px;
 }
@@ -331,7 +331,7 @@ a {
 }
 
 .sticky .logo a img {
-		content: url(./../logos/png/logo-no-background.png);
+		content: url(./../logos/hamza-wajeeh-logo-zip-file/png/logo-no-background.png);
 }
 
 .sticky .menu>ul>li>a {
@@ -360,13 +360,13 @@ a {
 	}
 
 	.header .logo a img {
-		content: url(./../logos/png/nexiz-high-resolution-logo-white-transparent.png);
+		content: url(./../logos/hamza-wajeeh-logo-zip-file/png/logo-no-background\ white.png);
 		width: 140px;
 		padding: 10px 0 0 20px;
 	}
 
 	.sticky .logo a img {
-		content: url(./../logos/png/logo-no-background.png);
+		content: url(./../logos/hamza-wajeeh-logo-zip-file/png/logo-no-background.png);
 	}
 
 	.sticky .open-main-nav {
